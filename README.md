@@ -8,5 +8,5 @@
 
 <p>
   <img align="center" width="415px" src="https://github-readme-streak-stats.herokuapp.com/?user=gurvinder-singh02&" alt="gurvinder-singh02" />
-  <img align="center" width="300px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=gurvinder-singh02&show_icons=true&locale=en&layout=compact" alt="gurvinder-singh02" /> 
+ 
 </p>
