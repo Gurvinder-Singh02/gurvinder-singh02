@@ -1,4 +1,4 @@
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=40&duration=2500&pause=500&color=5B74F7&center=true&vCenter=true&random=false&width=647&lines=Hello+%F0%9F%91%8B;I+am+Ankit+Kumar+Shah+%F0%9F%98%81;A+Full+Stack+Developer+%F0%9F%92%BB" alt="Typing SVG" /></a></h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&pause=1000&random=false&width=435&lines=I+am+Gurvinder+Singh;aka+Gxuri)](https://git.io/typing-svg)
 
 # 💫 About Me:
 Hello! I'm Gurvinder Singh, a Software Engineer at RMSI Pvt Ltd, working on innovative projects for Apple Inc. I specialize in technologies like React, TypeScript, Next.js, and Node.js. Notable projects include 'Fix My Code' and 'Audacity'.<br><br>I'm always excited to learn about new tech trends and open to collaboration. Let's connect to discuss innovative ideas!<br><br>Fun Fact: I'm a fitness enthusiast with a structured workout routine and a balanced diet to stay energetic.
