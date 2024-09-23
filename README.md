@@ -6,9 +6,8 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://fixmycode.gxuri.in/">Fix My Code</a> and <a href="https://audacity.gxuri.in/sign-in">Audacity</a>.</li>
-<li>🧐 Learning about <strong>Docker, Kubernetes, and AWS</strong>.</li>
+<li>🧐 Learning about web3 from 100x devs .</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/gurvinder-singh02">Github</a>.</li>
-<li>📝 I <del>regularly</del> write articles on <a href="[Your Blog Link]">my blog</a>.</li>
 <li>💬 Ping me about <strong> web dev ideas , new AI research </strong>.</li>
 </ul>
 
