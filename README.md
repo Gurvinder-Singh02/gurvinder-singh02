@@ -1,9 +1,10 @@
 <h2>Hey 👋, I'm Gurvinder Singh</h2>
-<p>I'm currently a Software Engineer at <strong><a href="https://www.apple.com/maps/">Apple Maps</a></strong>  based in Hyderabad. I'm working on some exciting projects, exploring new technologies, and diving into learning Docker, Kubernetes, and AWS.</p>
+aka gxuri
+<p>I'm currently a Software Engineer at <strong><a href="https://www.apple.com/maps/">Apple Maps</a></strong>  based in Hyderabad. I'm working on some exciting projects, exploring new technologies, and diving into learning web3.</p>
 
 <img align="right" style="border:; z-index: 1000; position: relative;" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-<h2>⚡️ A Few Quick Facts</h2>
+ **⚡️ A Few Quick Facts**
 <ul>
 <li>🔭 I’m currently working on <a href="https://fixmycode.gxuri.in/">Fix My Code</a> and <a href="https://audacity.gxuri.in/sign-in">Audacity</a>.</li>
 <li>🧐 Learning about web3 from 100x devs .</li>
@@ -12,7 +13,7 @@
 </ul>
 
 
-## 🌐 Socials:
+**🌐 Socials:** <br>
 X : https://x.com/guri_who <br>
 Linkedin : https://www.linkedin.com/in/gurvindersingh02/ 
 
